@@ -1,0 +1,45 @@
+/* body{
+    background-color: purple;
+}
+
+p{
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+}
+h1{font-family: 'Black Ops One', cursive;
+
+    text-shadow:4px 2px 4px cyan;
+    color: darkred;
+    text-align: center;
+
+text-transform: capitalize;
+
+
+}
+table, th, td{
+    width: 100%;
+    border: 3px solid black;
+
+}
+#outterdive{
+    background-color: deeppink;
+}
+.im{
+    border-radius: 10px;
+    background-color: fuchsia;
+}
+img{
+    float: left;
+}
+
+button{
+    padding: 7px;
+    background-color: lawngreen
+    
+} */
+header{
+    background-color: magenta;
+    
+}
+h1{
+    text-align: center
+}
